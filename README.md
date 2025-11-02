@@ -1,4 +1,4 @@
-# Fertility Multi‑Agent System — Sprint 1
+# RAG Retrieval + YOLO Training for Document
 
 End‑to‑end demo: **RAG + Pinecone**, **ASHA router + Gradio UI**, **Embryology secure updates**, **OCR + Lab parser**.
 
